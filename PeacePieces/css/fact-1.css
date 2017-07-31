@@ -1,0 +1,372 @@
+.version.fact_1 /* version checker */
+{
+	color: #000004;
+	background-color: #1E6865;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 549px;
+	border-width: 0px;
+	border-color: #000000;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	border-radius: 20px;
+	width: 100%;
+	max-width: 1920px;
+	margin-left: auto;
+	margin-right: auto;
+	background: transparent url("../images/colorfill1.jpg?crc=389189663") no-repeat left top;
+	background-size: cover;
+}
+
+.big-butten
+{
+	border-width: 0px;
+	border-color: #000000;
+	border-radius: 20px;
+	background: transparent url("../images/colorfill1.jpg?crc=389189663") no-repeat left top;
+}
+
+#pu1097
+{
+	z-index: 3;
+	margin-right: -10000px;
+	margin-top: -2px;
+	width: 100%;
+}
+
+#u1097
+{
+	z-index: 3;
+	width: 1920px;
+	height: 953px;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 56px;
+	background: transparent url("../images/untitled-3.jpg?crc=3939040587") no-repeat center center;
+	background-size: contain;
+}
+
+#u1021
+{
+	z-index: 4;
+	width: 1920px;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	padding-top: 161px;
+	padding-bottom: 238.41464466094055px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 70px;
+	background: transparent url("../images/colorfill1-u992-fr.png?crc=446619942") no-repeat center top;
+}
+
+#pu1125-4
+{
+	z-index: 10;
+	width: 20.58%;
+	margin-left: 28.23%;
+}
+
+#u1125-4
+{
+	z-index: 10;
+	width: 395px;
+	min-height: 49px;
+	background-color: transparent;
+	line-height: 49px;
+	font-size: 41px;
+	font-family: pt-mono, monospace;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1126
+{
+	z-index: 14;
+	width: 26px;
+	height: 26px;
+	border-radius: 50%;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 15.45%;
+}
+
+#u1126::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	border-radius: 50%;
+	box-shadow: inset 0px 0px 4px rgba(0,0,0,0.5), inset 0px 0px 4px rgba(0,0,0,0.5);
+}
+
+.round-butten
+{
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #FF6B68;
+}
+
+.round-butten::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	box-shadow: none;
+}
+
+#pu1124-4
+{
+	z-index: 6;
+	margin-top: 16px;
+	width: 49.02%;
+	margin-left: 30.06%;
+}
+
+#u1124-4
+{
+	z-index: 6;
+	width: 744px;
+	min-height: 63px;
+	background-color: transparent;
+	line-height: 156px;
+	font-size: 130px;
+	font-family: pt-sans-caption, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 17.54%;
+}
+
+#u1127-4
+{
+	z-index: 15;
+	width: 112px;
+	min-height: 63px;
+	background-color: transparent;
+	line-height: 240px;
+	font-family: pt-sans-caption, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	left: 0.96%;
+}
+
+#u1128-4
+{
+	z-index: 19;
+	width: 82px;
+	min-height: 63px;
+	background-color: transparent;
+	line-height: 240px;
+	font-family: pt-sans-caption, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 170px;
+	left: 2.45%;
+}
+
+#u1128-2
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1128
+{
+	font-size: 150px;
+	line-height: 180px;
+}
+
+#u1130-5
+{
+	z-index: 27;
+	width: 256px;
+	min-height: 63px;
+	background-color: transparent;
+	line-height: 240px;
+	font-family: pt-sans-caption, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 280px;
+}
+
+#u1130
+{
+	letter-spacing: -10px;
+}
+
+#u1131-4
+{
+	z-index: 32;
+	width: 685px;
+	min-height: 63px;
+	background-color: transparent;
+	line-height: 156px;
+	font-size: 130px;
+	font-family: pt-sans-caption, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 295px;
+	left: 27.21%;
+}
+
+#u1129-4
+{
+	z-index: 23;
+	width: 83px;
+	min-height: 88px;
+	text-align: center;
+	line-height: 240px;
+	font-weight: 700;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-left: 31.25%;
+}
+
+#u1129-4::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	z-index: -1;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	box-shadow: inset 0px 0px 4px rgba(0,0,0,0.5), inset 0px 0px 4px rgba(0,0,0,0.5);
+}
+
+#u1129-4:hover
+{
+	border-style: solid;
+	border-width: 4px;
+	border-color: #C9D3B3;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 84px;
+	width: 79px;
+	margin: -2px -2px -3px 31.145833333333332%;
+}
+
+#u1129-4:hover::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	z-index: -1;
+	top: -4px;
+	left: -4px;
+	bottom: -4px;
+	right: -4px;
+	box-shadow: inset 0px 0px 4px rgba(0,0,0,0.5), inset 0px 0px 4px rgba(0,0,0,0.5);
+}
+
+#u1129-2
+{
+	color: #000000;
+	font-family: pt-sans-caption, sans-serif;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1129
+{
+	line-height: 96px;
+}
+
+#u1024
+{
+	z-index: 5;
+	width: 1920px;
+	height: 70px;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	position: relative;
+	margin-right: -10000px;
+	background: #000000 url("../images/colorfill1.jpg?crc=389189663") no-repeat center top;
+	background-size: cover;
+}
+
+#u1325
+{
+	z-index: 36;
+	width: 61px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 67px;
+	left: 19.02%;
+}
+
+#u1325:hover
+{
+	border-style: solid;
+	border-width: 3px;
+	border-color: #C9D3B3;
+	width: 61px;
+	min-height: 0px;
+	margin: 64px -10003px -3px -0.15625%;
+}
+
+.css_verticalspacer .verticalspacer
+{
+	height: calc(100vh - 1256px);
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u216,#u216-bw
+{
+	z-index: 2;
+	height: 111px;
+}
+
+.html
+{
+	background: #000000 url("../images/colorfill1.jpg?crc=389189663") no-repeat center top scroll;
+	background-size: cover;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+
+.verticalspacer
+{
+	min-height: 1px;
+}
+

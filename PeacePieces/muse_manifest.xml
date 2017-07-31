@@ -1,0 +1,103 @@
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="WWW.CDFVDFVDBDB.GOV" resolutions="1x" timestamp="1499537137562">
+  <folder name="css">
+    <file name="site_global.css" crc="4187460140"/>
+    <file name="master_a-master.css" crc="3808416751" ref="470,000:2281:page-2:index:fact-1:fact-3:fact-2:11,000,000"/>
+    <file name="470_000.css" crc="400776857" ref="470,000"/>
+    <file name="2281.css" crc="4042728632" ref="2281"/>
+    <file name="page-2.css" crc="3991722627" ref="page-2"/>
+    <file name="index.css" crc="4052769389" ref="index"/>
+    <file name="fact-1.css" crc="69101669" ref="fact-1"/>
+    <file name="fact-3.css" crc="317600463" ref="fact-3"/>
+    <file name="fact-2.css" crc="3848071060" ref="fact-2"/>
+    <file name="11_000_000.css" crc="113073784" ref="11,000,000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="page-2:fact-1:2281:index:fact-2:470,000:fact-3:11,000,000"/>
+    <file name="museutils.js" crc="46400467" ref="page-2:fact-1:2281:index:fact-2:470,000:fact-3:11,000,000"/>
+    <file name="whatinput.js" crc="86476730" ref="page-2:fact-1:2281:index:fact-2:470,000:fact-3:11,000,000"/>
+    <file name="museconfig.js" crc="4273287925" ref="page-2:fact-1:2281:index:fact-2:470,000:fact-3:11,000,000"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="page-2:fact-1:2281:index:fact-2:470,000:fact-3:11,000,000"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="page-2:fact-1:2281:index:fact-2:470,000:fact-3:11,000,000"/>
+    <file name="require.js" crc="85721165" ref="page-2:fact-1:2281:index:fact-2:470,000:fact-3:11,000,000"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="163875928" ref="page-2"/>
+    <file name="colorfill1.jpg" crc="389189663" ref="page-2:fact-1:2281:index:fact-2:470,000:fact-3:11,000,000">
+      <caption webpage="2281" alt=""/>
+      <caption webpage="fact-3" alt=""/>
+      <caption webpage="fact-3" alt=""/>
+      <caption webpage="fact-2" alt=""/>
+      <caption webpage="fact-2" alt=""/>
+      <caption webpage="fact-1" alt=""/>
+      <caption webpage="fact-1" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="11,000,000" alt=""/>
+      <caption webpage="page-2" alt=""/>
+      <caption webpage="page-2" alt=""/>
+      <caption webpage="470,000" alt=""/>
+    </file>
+    <file name="7b6b107b8998b61a4a6239ecb0b24351.jpg" crc="4132846196" ref="page-2:index">
+      <caption webpage="page-2" alt=""/>
+    </file>
+    <file name="colorfill1-u992-fr.png" crc="446619942" ref="page-2:fact-1:2281:index:fact-2:470,000:fact-3:11,000,000"/>
+    <file name="refu new@288x.png" crc="4267636162" seo="true" ref="page-2">
+      <caption webpage="page-2" alt=""/>
+    </file>
+    <file name="war time new@288x.png" crc="4093765452" seo="true" ref="page-2">
+      <caption webpage="page-2" alt=""/>
+    </file>
+    <file name="death toll new@288x.png" crc="257606626" seo="true" ref="page-2">
+      <caption webpage="page-2" alt=""/>
+    </file>
+    <file name="untitled-3.jpg" crc="3939040587" ref="fact-1">
+      <caption webpage="fact-1" alt=""/>
+    </file>
+    <file name="asset 1@4x.jpg" crc="493319455" seo="true" ref="fact-1:2281:fact-2:470,000:fact-3:11,000,000">
+      <caption webpage="2281" alt=""/>
+      <caption webpage="470,000" alt=""/>
+      <caption webpage="fact-2" alt=""/>
+      <caption webpage="fact-3" alt=""/>
+      <caption webpage="11,000,000" alt=""/>
+      <caption webpage="fact-1" alt=""/>
+    </file>
+    <file name="colorfill1-page-fr.png" crc="197323091" ref="2281:470,000:11,000,000"/>
+    <file name="colorfill1-page-fr2.png" crc="197323091" ref="2281:470,000:11,000,000"/>
+    <file name="26int-syria3-superjumbo.jpg" crc="20661550" ref="2281">
+      <caption webpage="2281" alt=""/>
+    </file>
+    <file name="u1569-4.png" crc="4124379378" ref="2281"/>
+    <file name="u1196-4.png" crc="329757037" ref="2281"/>
+    <file name="u1197-5.png" crc="512111551" ref="2281"/>
+    <file name="u1566-4.png" crc="111997911" ref="2281"/>
+    <file name="colorfill1-u1273-r-fr.png" crc="197323091" ref="index"/>
+    <file name="3544677.jpg" crc="293358887" ref="fact-2">
+      <caption webpage="fact-2" alt=""/>
+    </file>
+    <file name="syrian-refugees4.jpg" crc="4089369577" ref="470,000">
+      <caption webpage="470,000" alt=""/>
+    </file>
+    <file name="u1713-4.png" crc="221456084" ref="470,000"/>
+    <file name="u1715-4.png" crc="296915329" ref="470,000"/>
+    <file name="u1708-5.png" crc="3807166170" ref="470,000"/>
+    <file name="u1711-4.png" crc="4067112897" ref="470,000"/>
+    <file name="_86734899_gettyimages-456342514.jpg" crc="4276394038" ref="fact-3">
+      <caption webpage="fact-3" alt=""/>
+    </file>
+    <file name="img_5126.jpg" crc="3977080015" ref="11,000,000">
+      <caption webpage="11,000,000" alt=""/>
+    </file>
+    <file name="u1895-4.png" crc="422168569" ref="11,000,000"/>
+    <file name="u1846-4.png" crc="4104161835" ref="11,000,000"/>
+    <file name="u1853-5.png" crc="4036833057" ref="11,000,000"/>
+    <file name="u1844-4.png" crc="4286991503" ref="11,000,000"/>
+  </folder>
+  <file name="page-2.html" crc="4259382353" seo="true" mt="1499534647615" redirect="true"/>
+  <file name="fact-1.html" crc="485167364" seo="true" mt="1499535282540" redirect="true"/>
+  <file name="2281.html" crc="227515582" seo="true" mt="1499535938051" redirect="true"/>
+  <file name="index.html" crc="84639496" seo="true" mt="1499534752153" redirect="true"/>
+  <file name="fact-2.html" crc="3858782062" seo="true" mt="1499535294621" redirect="true"/>
+  <file name="470,000.html" crc="4225878669" seo="true" mt="1499537070987" redirect="true"/>
+  <file name="fact-3.html" crc="3834275524" seo="true" mt="1499535289975" redirect="true"/>
+  <file name="11,000,000.html" crc="4022152384" seo="true" mt="1499535398531" redirect="true"/>
+</manifest>

@@ -1,0 +1,284 @@
+.version._2281 /* version checker */
+{
+	color: #0000F0;
+	background-color: #F724B8;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 549px;
+	border-width: 0px;
+	border-color: transparent;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	border-radius: 33px;
+	width: 100%;
+	max-width: 1920px;
+	margin-left: auto;
+	margin-right: auto;
+	background: transparent url("../images/colorfill1-page-fr2.png?crc=197323091") no-repeat left top;
+	background-size: cover;
+}
+
+#page::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	border-radius: 33px;
+	box-shadow: none;
+	top: 0px;
+	bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0px;
+	right: 0px;
+	width: 100%;
+	max-width: 1920px;
+}
+
+.dice-butten
+{
+	border-width: 1px;
+	border-color: transparent;
+	border-radius: 33px;
+	background: transparent url("../images/colorfill1-page-fr.png?crc=197323091") no-repeat left top;
+	background-size: cover;
+}
+
+#pu1155
+{
+	z-index: 3;
+	margin-right: -10000px;
+	margin-top: -2px;
+	width: 129.36%;
+}
+
+#u1155
+{
+	z-index: 3;
+	width: 960px;
+	height: 911px;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 56px;
+	left: 19.35%;
+	background-size: cover;
+}
+
+
+
+#blinkImage1
+{
+  z-index: 100;
+
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
+#blinkImage2
+{
+  z-index: 100;
+
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
+
+#u1160
+{
+	z-index: 4;
+	width: 2481px;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	padding-top: 160px;
+	padding-bottom: 275.14696699141086px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 70px;
+	background: transparent url("../images/colorfill1-u992-fr.png?crc=446619942") no-repeat left top;
+}
+
+#pu1569-4
+{
+	z-index: 21;
+	width: 15.93%;
+	margin-left: 21.77%;
+}
+
+#u1569-4
+{
+	z-index: 21;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1570
+{
+	z-index: 25;
+	width: 26px;
+	height: 26px;
+	border-radius: 50%;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 15.95%;
+}
+
+#u1570::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	border-radius: 50%;
+	box-shadow: inset 0px 0px 4px rgba(0,0,0,0.5), inset 0px 0px 4px rgba(0,0,0,0.5);
+}
+
+.round-butten
+{
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #FF6B68;
+}
+
+.round-butten::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	box-shadow: none;
+}
+
+#pu1196-4
+{
+	z-index: 6;
+	margin-top: 12px;
+	width: 45.87%;
+	margin-left: 23.99%;
+}
+
+#u1196-4
+{
+	z-index: 6;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	left: 0.36%;
+}
+
+#u1197-5
+{
+	z-index: 10;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 340px;
+	left: 0.71%;
+}
+
+#u1566-4
+{
+	z-index: 17;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 188px;
+}
+
+#u1159
+{
+	z-index: 5;
+	width: 1920px;
+	height: 70px;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	position: relative;
+	margin-right: -10000px;
+	background: #000000 url("../images/colorfill1.jpg?crc=389189663") no-repeat center top;
+	background-size: cover;
+}
+
+#u1311
+{
+	z-index: 15;
+	width: 61px;
+	background-color: #FF6B68;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 67px;
+	left: 14.72%;
+}
+
+#u1311:hover
+{
+	border-style: solid;
+	border-width: 3px;
+	border-color: #C9D3B3;
+	width: 61px;
+	min-height: 0px;
+	margin: 64px -10003px -3px -0.12091898428053204%;
+}
+
+.css_verticalspacer .verticalspacer
+{
+	height: calc(100vh - 1116px);
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u216,#u216-bw
+{
+	z-index: 2;
+	height: 111px;
+}
+
+.html
+{
+	background: #000000 url("../images/colorfill1.jpg?crc=389189663") no-repeat center top scroll;
+	background-size: cover;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+
+.verticalspacer
+{
+	min-height: 1px;
+}
+
